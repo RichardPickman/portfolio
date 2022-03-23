@@ -1,7 +1,5 @@
 import  i18Obj from './translate.js';
 
-console.log('Sorry for shyness! 85/75')
-
 const lightSections = [
     '.skills-container', '.portfolio-container', '.video-container', '.price-container'
 ]
